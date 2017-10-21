@@ -1,0 +1,8 @@
+<!DOCTYPE Contact [
+<!ELEMENT CONTACT (Name, Email, Comment)>
+<!ELEMENT Name (First, Last)>
+<!ELEMENT First (#PCDATA>
+<!ELEMENT Last (#PCDATA>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT Comment (#PCDATA)>
+]>
