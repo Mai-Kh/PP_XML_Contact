@@ -1,5 +1,6 @@
-<?xml version="1.0"?>
-<CONTACT>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE Contact SYSTEM "Contact.dtd">
+<Contact>
 	<Name>
 		<First>Jane</First>
 		<Last>Doe</Last>
@@ -8,4 +9,4 @@
 	</Email>
 	<Comment>Please send me information about the digitizer speed of your fluorescence instrument.
 	</Comment>
-</CONTACT>
+</Contact>
